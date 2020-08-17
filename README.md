@@ -1,6 +1,7 @@
 # Tribute Page: Frida Kahlo
 
-Ejercicio de freeCodeCamp. El proyecto tenia que cumplir los siguientes requisitos:
+Mi primer ejercicio de programacion en freeCodeCamp, una pagina tributo a alguien que admirara. Fui por un clasico, Frida Kahlo.
+El proyecto tenia que cumplir los siguientes requisitos:
 
 > User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
